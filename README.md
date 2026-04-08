@@ -25,7 +25,7 @@
 
 ## `whoami`
 
-Pleiades is the official techno-cultural fest platform for **KLE Technological University, Hubballi** — built, architected, and shipped by a student team under real production constraints.
+Pleiades is the official techno-cultural fest platform for **KLE Technological University, Hubballi** — built, architected, and shipped under real production constraints.
 
 Not a demo. Not a hackathon prototype. A live system that handled thousands of concurrent users during active fest operations with zero downtime.
 
