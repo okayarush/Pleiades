@@ -16,11 +16,9 @@
 │   8,000+ concurrent users  •  live in production  •  2026    │
 └──────────────────────────────────────────────────────────────┘
 ```
+[![Status](https://img.shields.io/badge/status-live_in_production-00FF88?style=for-the-badge&labelColor=000)](https://pleiades.kletech.ac.in)
 
-![status](https://img.shields.io/badge/status-live_in_production-00FF88?style=for-the-badge&labelColor=000)
-![users](https://img.shields.io/badge/peak_load-8K+_concurrent_users-FF3C3C?style=for-the-badge&labelColor=000)
-![org](https://img.shields.io/badge/KLE_Technological_University-0A66C2?style=for-the-badge&labelColor=000)
-
+[![Visit Pleiades](https://img.shields.io/badge/click_to_visit-D4AF37?style=for-the-badge&labelColor=000&logo=link&logoColor=white)](https://pleiades.kletech.ac.in)
 </div>
 
 ---
